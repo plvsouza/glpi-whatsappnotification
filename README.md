@@ -13,6 +13,7 @@ This plugin presents a form divided into two sessions. The first to add the API 
 
 <img width="1722" alt="Screenshot 2025-04-10 at 10 38 51" src="https://github.com/user-attachments/assets/1d309a2b-9011-4f86-814e-63a17a129f70" />
 
+
 Exit Examples:
 
 On new calls
