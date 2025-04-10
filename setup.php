@@ -38,7 +38,7 @@ function plugin_version_whatsappnotification() {
     return [
         'name'           => 'WhatsApp Notification',
         'version'        => PLUGIN_WHATSAPPNOTIFICATION_VERSION,
-        'author'         => 'Your Name',
+        'author'         => 'Pedro Souza',
         'license'        => 'GPLv3+',
         'requirements'   => [
             'glpi' => [
