@@ -28,4 +28,4 @@ On closed
 
 <img width="744" alt="Screenshot 2025-04-10 at 10 41 26" src="https://github.com/user-attachments/assets/1617d6dd-2785-463c-8b40-6964257e5752" />
 
-Details always presents the last interaction of the call
+Details always presents the last interaction of the call whether they are a followup or a task
