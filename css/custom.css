@@ -1,0 +1,18 @@
+/* Force button visibility */
+.btn-danger {
+    display: inline-block !important;
+    opacity: 1 !important;
+    visibility: visible !important;
+}
+
+/* Fix table row alignment */
+.tab_cadre_fixehov tr td {
+    vertical-align: middle !important;
+    padding: 12px !important;
+}
+
+/* Ensure forms don't collapse */
+form[style*="inline-block"] {
+    display: inline-block !important;
+    min-width: 100px;
+}
